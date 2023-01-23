@@ -1,6 +1,6 @@
 
-# Bookmark Alien - Bookmark From Outer Space . . .
-*Bookmark Application*
+# Bookmark Alien - ***B***ookmark ***F***rom ***O***uter ***S***pace . . .
+*- - - Bookmark Application - - -*
 
 
 ## A Great solution for URLs management 
