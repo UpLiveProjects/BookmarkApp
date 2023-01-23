@@ -30,6 +30,8 @@
 ## Desktop/Tablet display:
 #### Main - - 
 ![image](https://user-images.githubusercontent.com/110183671/214143675-520aa666-aa58-4dfb-b3e8-283395801978.png)
+#### Login failed - - 
+![image](https://user-images.githubusercontent.com/110183671/214143967-77f6e33f-3594-4e19-9332-0a8206226574.png)
 
 
 
