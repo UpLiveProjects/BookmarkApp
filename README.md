@@ -36,6 +36,10 @@
 ##
 #### Login failed - - 
 ![image](https://user-images.githubusercontent.com/110183671/214143967-77f6e33f-3594-4e19-9332-0a8206226574.png)
+##
+#### Other menus and functionality - - 
+![image](https://user-images.githubusercontent.com/110183671/214144746-6751708c-d92d-48f4-b0a4-c67b03482aee.png)
+##
 
 
 
