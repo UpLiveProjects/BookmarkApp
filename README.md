@@ -12,6 +12,13 @@
 + Installation not required
 + User-friendly
 
+# 
+### Links:
++ https://tihnun.net/index.php
++ https://tihnun.net/bookmark/v2/index.php
+# 
+
+
 ## Mobie display:
 #### Main - - 
 ![image](https://user-images.githubusercontent.com/110183671/214146103-1c6d377c-c998-40ca-b90b-13059cddff8b.png)
