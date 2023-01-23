@@ -27,5 +27,9 @@
 ![image](https://user-images.githubusercontent.com/110183671/214143124-1d82cd95-b0eb-41a4-82c4-492611c50d19.png)
 
 
+## Desktop/Tablet display:
+#### Main - - 
+![image](https://user-images.githubusercontent.com/110183671/214143675-520aa666-aa58-4dfb-b3e8-283395801978.png)
+
 
 
