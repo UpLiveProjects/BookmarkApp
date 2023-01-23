@@ -14,20 +14,20 @@
 
 ## Mobie display:
 #### Main - - 
-![image](https://user-images.githubusercontent.com/110183671/214140261-71976d77-5f34-4d47-afd7-42291a9c3a5e.png)
+![image](https://user-images.githubusercontent.com/110183671/214146103-1c6d377c-c998-40ca-b90b-13059cddff8b.png)
 ##
 #### Login - - 
-![image](https://user-images.githubusercontent.com/110183671/214140726-9fa118d7-523d-4d57-bf2a-fb512105dcd4.png)
+![image](https://user-images.githubusercontent.com/110183671/214146275-430e3727-1a1b-406b-9928-6cade83424aa.png)
 ##
 #### Login Successfully - - 
-![image](https://user-images.githubusercontent.com/110183671/214141168-17d7f90d-5e49-4b66-a282-8e64fe9a4821.png)
+![image](https://user-images.githubusercontent.com/110183671/214146545-abd498f2-acb6-48dd-9229-46575165db91.png)
 ##
 #### Other menus and functionality - - 
-![image](https://user-images.githubusercontent.com/110183671/214141890-808e94bb-c1fc-4649-94c9-8ec63b5ff1fa.png)
+![image](https://user-images.githubusercontent.com/110183671/214146755-cb016c43-718e-46ff-8f37-3043f2ab210f.png)
 ##
-![image](https://user-images.githubusercontent.com/110183671/214142832-9e5b765f-3a82-4a29-bdd1-4c2bff6efd0b.png)
+![image](https://user-images.githubusercontent.com/110183671/214146951-03864d9b-5a62-4b2d-a28c-8ef5eab786f6.png)
 ##
-![image](https://user-images.githubusercontent.com/110183671/214143124-1d82cd95-b0eb-41a4-82c4-492611c50d19.png)
+![image](https://user-images.githubusercontent.com/110183671/214147057-ab955882-ba65-4c7e-9448-447726349f97.png)
 
 
 ## Desktop/Tablet display:
