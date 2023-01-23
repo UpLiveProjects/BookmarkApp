@@ -19,4 +19,7 @@
 ![image](https://user-images.githubusercontent.com/110183671/214140726-9fa118d7-523d-4d57-bf2a-fb512105dcd4.png)
 #### Login Successfully - - 
 ![image](https://user-images.githubusercontent.com/110183671/214141168-17d7f90d-5e49-4b66-a282-8e64fe9a4821.png)
+#### Other menus and functionality - - 
+![image](https://user-images.githubusercontent.com/110183671/214141890-808e94bb-c1fc-4649-94c9-8ec63b5ff1fa.png)
+
 
