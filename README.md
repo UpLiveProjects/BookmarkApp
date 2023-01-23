@@ -11,3 +11,7 @@
 + Cross-platform
 + Installation not required
 + User-friendly
+
+#### Mobie display:
+![image](https://user-images.githubusercontent.com/110183671/214140261-71976d77-5f34-4d47-afd7-42291a9c3a5e.png)
+
