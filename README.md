@@ -22,4 +22,10 @@
 #### Other menus and functionality - - 
 ![image](https://user-images.githubusercontent.com/110183671/214141890-808e94bb-c1fc-4649-94c9-8ec63b5ff1fa.png)
 
+![image](https://user-images.githubusercontent.com/110183671/214142832-9e5b765f-3a82-4a29-bdd1-4c2bff6efd0b.png)
+
+![image](https://user-images.githubusercontent.com/110183671/214143124-1d82cd95-b0eb-41a4-82c4-492611c50d19.png)
+
+
+
 
